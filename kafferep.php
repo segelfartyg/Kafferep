@@ -7,14 +7,14 @@
         <title>Kafferep</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="kaffesource/bgcss.css">
+        <link rel="stylesheet" href="bgcss.css">
         <link rel="preconnect" href="https://fonts.gstatic.com">
         <link href="https://fonts.googleapis.com/css2?family=Staatliches&display=swap" rel="stylesheet">
 
 
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-        <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
         <link rel="manifest" href="/site.webmanifest">
         <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
         <meta name="msapplication-TileColor" content="#da532c">
@@ -28,12 +28,12 @@
                 <h3>med Samuel Swarén</h3>
             </div>
                 <div class="pictures">
-                    <img id="eliboy" width="25" height="55" src="kaffesource/kaffe.png">
-                    <img id="ebba" width="25" height="55" src="kaffesource/kaffe.png">
-                    <img id="stefan" width="25" height="55" src="kaffesource/kaffe.png">
+                    <img id="eliboy" width="25" height="55" src="kaffe.png">
+                    <img id="ebba" width="25" height="55" src="kaffe.png">
+                    <img id="stefan" width="25" height="55" src="kaffe.png">
                 </div>
             
-            <img id="tegil" width="75" height="75" src="kaffesource/samuel2.png">
+            <img id="tegil" width="75" height="75" src="samuel2.png">
         
     </div>
 
@@ -47,7 +47,7 @@
                 <h3>med Samuel Swarén</h3>
             </div>
                 
-            <img id="tegil" width="75" height="75" src="kaffesource/samuel2.png">
+            <img id="tegil" width="75" height="75" src="samuel2.png">
 
             </div>
             
@@ -72,14 +72,14 @@
     <div id="con">     
                 
         <div id="scorearealeft">
-            <img id="kaffe" src="kaffesource/kaffe.png" >
+            <img id="kaffe" src="kaffe.png" >
         </div>
     
         <div id="outer">
             <div id="out">
                 <div id="gamearea">
                     <canvas id="bgcanvas" height="500" width="500">
-                        <img class="tegnell" src="kaffesource/tegnell.jpg">
+                      
                     </canvas>
                 </div>
             </div>  
@@ -92,10 +92,10 @@
     </div>
        
     <div class="controls">Styr Samuel med "<-" "->" och skjut kaffe med mellanslag<br> Samla så mycket kaffe som möjligt utan att få det i huvudet</div>
-    <div class="social"><img src="kaffesource/sailor.PNG"></div>
-    <img id="anti" width="30" height="55" src="kaffesource/cup.png">
-    <img id="cup" width="50px" height="50px" src="kaffesource/cup.png">
+    <div class="social"><img src="sailor.PNG"></div>
+    <img id="anti" width="30" height="55" src="cup.png">
+    <img id="cup" width="50px" height="50px" src="cup.png">
   
-    <script src="kaffesource/bgjs.js" async defer></script>
+    <script src="bgjs.js" async defer></script>
     </body>
 </html>
